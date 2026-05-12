@@ -1,4 +1,4 @@
-# 🏴 Active Directory Kill Chain
+#  Active Directory Kill Chain
 
 > A structured walkthrough of the Active Directory attack lifecycle — from initial reconnaissance to full domain compromise.
 
